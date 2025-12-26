@@ -68,6 +68,7 @@ https://ai.google.dev/
 ```toml
 OPENWEATHER_API_KEY = "your_openweather_api_key"
 GEMINI_API_KEY = "your_gemini_api_key"
+```
 
 🛠️ Local Setup
 
