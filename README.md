@@ -72,9 +72,9 @@ GEMINI_API_KEY = "your_gemini_api_key"
 
 🛠️ Local Setup
 
-cd AirWise_AI
-pip install -r requirements.txt
-streamlit run Home.py
+1. cd AirWise_AI
+2. pip install -r requirements.txt
+3. streamlit run Home.py
 
 ## 📊 AQI Scale
 OpenWeather AQI:
